@@ -1,13 +1,4 @@
-Entendi. O problema é que quando você copia da resposta renderizada, o GitHub recebe apenas texto sem a formatação de Markdown correta em alguns casos. Para o GitHub ficar **igual ao meu visual (títulos grandes, subtítulos, listas, tabelas, separações)** você precisa copiar o conteúdo em **Markdown puro**, incluindo os símbolos `#`, `##`, `-`, `|` etc.
-
-Vou te entregar em um bloco de código para preservar exatamente a formatação. Você deve:
-
-1. Clicar em **copiar** no canto do bloco;
-2. Colar no arquivo `README.md` do GitHub;
-3. O GitHub irá renderizar automaticamente com tamanhos diferentes.
-
-```markdown
-# Opalus Health Services — Modelo FP&A, Dashboard Financeiro e Forecast Analítico
+#  Health Services — Modelo FP&A, Dashboard Financeiro e Forecast Analítico
 
 **Versão:** 1.0  
 **Data:** 28 de Julho de 2026  
@@ -267,6 +258,8 @@ A arquitetura foi desenvolvida como um **single source of truth financeiro**, ga
 - Facilidade de atualização.
 
 ---
+
+**Projeto desenvolvido para demonstração de competências em FP&A, Financial Modeling, Business Intelligence e Data Analytics.**
 
 **Projeto desenvolvido para demonstração de competências em FP&A, Financial Modeling, Business Intelligence e Data Analytics.**
 ```
