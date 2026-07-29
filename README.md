@@ -1,4 +1,4 @@
-#  Health Services — Modelo FP&A, Dashboard Financeiro e Forecast Analítico
+#  Health Services — Case FP&A
 
 **Versão:** 1.0  
 **Data:** 28 de Julho de 2026  
