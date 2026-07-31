@@ -10,7 +10,7 @@
 
 # 1. Visão Geral do Projeto
 
-Este repositório apresenta uma solução completa de **Planejamento e Análise Financeira (FP&A)** desenvolvida para a **Opalus Health Services**, empresa fictícia do segmento de Home Care, Internação Domiciliar e Atendimento Particular.
+Este repositório apresenta uma solução completa de **Planejamento e Análise Financeira (FP&A)** desenvolvida para a ** Health Services**, empresa fictícia do segmento de Home Care, Internação Domiciliar e Atendimento Particular.
 
 O projeto integra três pilares principais:
 
