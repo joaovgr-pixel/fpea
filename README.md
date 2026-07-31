@@ -114,7 +114,7 @@ Inclui:
 | Dashboard_Opalus_Health_Services_FINAL (1).zip | Dashboard HTML autocontido e arquivos CSV do modelo estrela. |
 | Excel_modelo_financeiro | Modelo financeiro completo em Excel com 16 abas seguindo FAST Standard. |
 | Forecast_Analysis.ipynb | Notebook Python de forecast e análises quantitativas. |
-| read_me | Documento de documentação do projeto. |
+| read_me | Documentação do projeto. |
 
 ---
 
