@@ -259,5 +259,5 @@ A arquitetura foi desenvolvida como um **single source of truth financeiro**, ga
 
 ---
 
-**Projeto desenvolvido por João Vitor Rodrigues, para demonstração de competências em FP&A, Financial Modeling, Business Intelligence e Data Analytics.**
+**Projeto desenvolvido por João Vitor Rodrigues, para demonstração de competências em FP&A.**
 
