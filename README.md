@@ -152,7 +152,7 @@ Principais indicadores de 2025:
 
 O dashboard permite:
 
-- Visualização executiva;
+- Visualização;
 - Análise de desempenho;
 - Comparação orçado vs realizado;
 - Avaliação de cenários futuros.
